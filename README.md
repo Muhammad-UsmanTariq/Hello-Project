@@ -24,32 +24,6 @@
 
 **[Hello-Project]** is to analyze source code and provide feedback on potential errors, coding style violations, other issues and correct them.
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 ### Key Features <a name="Error Detection"></a>
 
  Analyze the source code and identify potential errors, such as syntax errors, undefined variables, unused variables, and type mismatches. By detecting these errors early, linters help developers catch and fix bugs before they cause runtime issues.
